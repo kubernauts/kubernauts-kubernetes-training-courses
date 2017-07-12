@@ -1,0 +1,22 @@
+{
+    "root"       : ".",
+    "title"      : "Kubernauts Training Design",
+    "description": "This book contains the Kubernauts Training design documents.",
+    "author"     : "Kubernauts",
+    "lang"       : "en",
+    "gitbook"    : ">= 3.2.0",
+    "plugins"    : ["mermaid-gb3",
+                    "expandable-chapters",
+                    "page-toc",
+                    "back-to-top-button"],
+    "pluginsConfig": {
+      "mermaid-gb3": {
+        "theme": "forest"
+      },
+      "page-toc": {
+        "selector": ".markdown-section h2, .markdown-section h3",
+        "position": "top"
+      }  
+    }
+}
+
