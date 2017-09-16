@@ -1,4 +1,4 @@
-# Kubernauts Training Courses
+# Kubernauts Kubernetes Training Courses
 
 ---
 
