@@ -1,13 +1,14 @@
 # Summary
 
-### Overview
+## Overview
 
 * [Introduction](README.md)
 
-### Courses
+## Courses
 
-* Novice
-* Proficient
-* Expert
+* [Novice](courses/novice.md)
+* [Proficient](courses/proficient.md)
+* [Expert](courses/expert.md)
 * Master
-    * [Metrics](courses/master/metrics.md)
+  * [Metrics](courses/master/metrics.md)
+
