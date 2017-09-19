@@ -8,7 +8,7 @@
 
 * [Novice](courses/novice.md)
 * [Proficient](courses/proficient.md)
-* [Expert](courses/expert.md)
+* [CKA Expert](courses/expert.md)
 * Master
   * [Metrics](courses/master/metrics.md)
 
