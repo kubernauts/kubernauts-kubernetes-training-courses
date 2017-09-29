@@ -1,0 +1,106 @@
+# CKA Preparation
+
+This is the version 0.1 curriculum of Kubernauts Certified Kubernetes Adminstrator Exam. 
+
+If you see an issue with the document, please open an issue. Minor issues may be addressed with updates. Major issue will require updates to the document which will come with new versions of the exam, generally coinciding with new version of Kubernetes.
+
+##### This document provides the curriculum outline of the Knowledge, Skills and Abilities that a Certifed Kubernetes Administrator (CKA) can be expected to demonstrate.
+
+###CKA Curriculum V 0.1
+
+```5% - Scheduling```
+
+* Use label selectors to schedule Pods.
+* Understand the role of DaemonSets.
+* Understand how resource limits can affect Pod scheduling.
+* Understand how to run multiple schedulers and how to confgure Pods to use them.
+* Manually schedule a pod without  a scheduler.
+* Display scheduler events.
+* Know how to confgure the  Kubernetes scheduler.
+
+
+```5% - Logging/Monitoring```
+
+* Understand how to monitor all  cluster components.
+* Understand how to monitor applications.
+* Manage cluster component logs.
+* Manage application logs.
+
+
+```8% - Application Lifecycle  Management```
+
+* Understand Deployments and how to perform rolling updates and rollbacks.
+* Know various ways to confgure applications.
+* Know how to scale applications.
+* Understand the primitives necessary to create a self-healing application. 
+
+
+```11% - Cluster Maintenance```
+
+* Understand Kubernetes cluster  upgrade process.
+* Facilitate operating system upgrades.
+* Implement backup and restore methodologies.
+
+
+```12% - Security```
+
+* Know how to confgure authentication  and authorization.
+* Understand Kubernetes security primitives.
+* Know to confgure network policies.
+* Create and manage TLS certifcates for cluster components.
+* Work with images securely.
+* Defne security contexts.
+* Secure persistent key value store. 
+
+
+```7% - Storage```
+ 
+ * Understand persistent volumes and know how to create them.
+ * Understand access modes for volumes.
+ * Understand persistent volume claims primitive.
+ * Understand Kubernetes storage objects.
+ * Know how to confgure applications with persistent storage.
+ 
+ 
+ ```10% - Troubleshooting```
+ 
+ * Troubleshoot application failure.
+ * Troubleshoot control plane failure.
+ * Troubleshoot worker node failure.
+ * Troubleshoot networking. 
+ 
+ 
+ ```19% - Core Concepts```
+ 
+* Understand the Kubernetes API primitives.
+* Understand the Kubernetes cluster architecture.
+* Understand Services and other  network primitives.
+
+
+```11% - Networking```
+
+* Understand the networking confguration on the cluster nodes.
+* Understand Pod networking concepts.
+* Understand service networking.
+* Deploy and confgure network load balancer. 
+* Know how to use Ingress rules.
+* Know how to configure and use the cluster DNS.
+* Understand CNI. 
+
+
+```12% - Installation, Confguration  & Validation```
+
+* Design a Kubernetes cluster.
+* Install Kubernetes masters and nodes.
+* Configure secure cluster communications.   
+* Configure a Highly-Available Kubernetes cluster.
+* Know where to get the Kubernetes  release binaries.
+* Provision underlying infrastructure to deploy a Kubernetes cluster.
+* Choose a network solution.
+* Choose your Kubernetes infrastructure confguration.
+* Run end-to-end tests on your cluster.
+* Analyse end-to-end tests results.
+* Run Node end-to-end tests.
+
+
+
