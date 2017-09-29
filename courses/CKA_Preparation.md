@@ -11,7 +11,7 @@ If you see an issue with the document, please open an issue. Minor issues may be
 ```5% - Scheduling```
 
 * Use label selectors to schedule Pods
-* Understand the role of DaemonSets
+* Understand the role of DaemonSets
 * Understand how resource limits can affect Pod scheduling
 * Understand how to run multiple schedulers and how to configure Pods to use them
 * Manually schedule a pod without  a scheduler
@@ -23,13 +23,13 @@ If you see an issue with the document, please open an issue. Minor issues may be
 
 * Understand how to monitor all  cluster components
 * Understand how to monitor applications
-* Manage cluster component logs
+* Manage cluster component logs
 * Manage application logs
 
 
 ```8% - Application Lifecycle  Management```
 
-* Understand Deployments and how to perform rolling updates and rollbacks
+* Understand Deployments and how to perform rolling updates and rollbacks
 * Know various ways to configure applications
 * Know how to scale applications
 * Understand the primitives necessary to create a self-healing application 
@@ -92,7 +92,7 @@ If you see an issue with the document, please open an issue. Minor issues may be
 
 * Design a Kubernetes cluster
 * Install Kubernetes masters and nodes
-* Configure secure cluster communications  
+* Configure secure cluster communications
 * Configure a Highly-Available Kubernetes cluster
 * Know where to get the Kubernetes  release binaries
 * Provision underlying infrastructure to deploy a Kubernetes cluster
