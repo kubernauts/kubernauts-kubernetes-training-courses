@@ -1,10 +1,10 @@
 # CKA Preparation
 
-This is the version 0.1 curriculum of Kubernauts Certified Kubernetes Adminstrator Exam. 
+This is the version 0.1 curriculum of Kubernauts Certified Kubernetes Administrator Exam. 
 
 If you see an issue with the document, please open an issue. Minor issues may be addressed with updates. Major issue will require updates to the document which will come with new versions of the exam, generally coinciding with new version of Kubernetes.
 
-##### This document provides the curriculum outline of the Knowledge, Skills and Abilities that a Certifed Kubernetes Administrator (CKA) can be expected to demonstrate.
+##### This document provides the curriculum outline of the Knowledge, Skills and Abilities that a Certified Kubernetes Administrator (CKA) can be expected to demonstrate.
 
 ###CKA Curriculum V 0.1
 
@@ -74,33 +74,33 @@ If you see an issue with the document, please open an issue. Minor issues may be
  
 * Understand the Kubernetes API primitives
 * Understand the Kubernetes cluster architecture
-* Understand Services and other  network primitives
+* Understand Services and other network primitives
 
 
 ```11% - Networking```
 
 * Understand the networking configuration on the cluster nodes
 * Understand Pod networking concepts
-* Understand service networking.
-* Deploy and confgure network load balancer. 
-* Know how to use Ingress rules.
-* Know how to configure and use the cluster DNS.
-* Understand CNI. 
+* Understand service networking
+* Deploy and configure network load balancer
+* Know how to use Ingress rules
+* Know how to configure and use the cluster DNS
+* Understand CNI
 
 
 ```12% - Installation, Confguration  & Validation```
 
-* Design a Kubernetes cluster.
-* Install Kubernetes masters and nodes.
-* Configure secure cluster communications.   
-* Configure a Highly-Available Kubernetes cluster.
-* Know where to get the Kubernetes  release binaries.
-* Provision underlying infrastructure to deploy a Kubernetes cluster.
-* Choose a network solution.
-* Choose your Kubernetes infrastructure confguration.
-* Run end-to-end tests on your cluster.
-* Analyse end-to-end tests results.
-* Run Node end-to-end tests.
+* Design a Kubernetes cluster
+* Install Kubernetes masters and nodes
+* Configure secure cluster communications  
+* Configure a Highly-Available Kubernetes cluster
+* Know where to get the Kubernetes  release binaries
+* Provision underlying infrastructure to deploy a Kubernetes cluster
+* Choose a network solution
+* Choose your Kubernetes infrastructure configuration
+* Run end-to-end tests on your cluster
+* Analyse end-to-end tests results
+* Run Node end-to-end tests
 
 
 
