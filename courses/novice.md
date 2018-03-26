@@ -4,7 +4,7 @@ Our Kubernetes Fundamental Trainings takes place every 2 weeks through our [onli
 
 The fundamental trainings slides are available [here](https://goo.gl/Hzk2sd).
 
-## How to prepare for Kubernetes Online Trainings?
+## How to prepare for our Free Kubernetes Online Trainings?
 
 For the best hands-on learning experience you need to [install Minikube](https://abhishek-tiwari.com/local-development-environment-for-kubernetes-using-minikube/) on your local machine and create an account on GCP with billing enabled or deploy a Kubernetes Cluster with Kops on AWS or with TK8 on AWS or OpenStack.
 
