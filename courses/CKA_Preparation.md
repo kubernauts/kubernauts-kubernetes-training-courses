@@ -8,7 +8,7 @@ If you see an issue with the document, please open an issue. Minor issues may be
 
 ### CKA Curriculum V 1.9
 
-[https://github.com/cncf/curriculum](https://github.com/cncf/curriculum)
+Source: [https://github.com/cncf/curriculum](https://github.com/cncf/curriculum)
 
 `5% - Scheduling`
 
