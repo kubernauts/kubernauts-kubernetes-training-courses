@@ -16,3 +16,17 @@ If you haven’t a GCP account and didn’t tried Google Kubernetes Engine for f
 
 If you prefer to deploy Kubernetes on AWS or OpenStack, please follow our [Kops Faststart guide](https://kubernauts.gitbooks.io/kubernauts-kops-faststart/content/) or use our [TK8 installer](https://github.com/kubernauts/tk8) or the [Kubespray Essentials](https://kubernauts.gitbooks.io/kubespray-essentials/content/).
 
+Get the code for the training
+
+## Checkout the code of Kubernetes By Example
+
+$ git clone https://github.com/kubernauts/kbe.git  
+$ cd $ cd kbe/specs/
+
+## Checkout the code of Kubernetes By Action
+
+$ git clone https://github.com/luksa/kubernetes-in-action.git  
+$ cd kubernetes-in-action/
+
+
+
