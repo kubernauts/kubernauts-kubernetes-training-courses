@@ -20,13 +20,11 @@ Get the code for the training
 
 ## Checkout the code of Kubernetes By Example
 
-$ git clone https://github.com/kubernauts/kbe.git  
+$ git clone [https://github.com/openshift-evangelists/kbe](https://github.com/openshift-evangelists/kbe)  
 $ cd $ cd kbe/specs/
 
 ## Checkout the code of Kubernetes By Action
 
-$ git clone https://github.com/luksa/kubernetes-in-action.git  
+$ git clone [https://github.com/luksa/kubernetes-in-action.git](https://github.com/luksa/kubernetes-in-action.git)  
 $ cd kubernetes-in-action/
-
-
 
