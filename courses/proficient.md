@@ -6,6 +6,7 @@ If you'd like to help by crafting the advanced training slides, please [join us 
 
 ## Advanced Kubernetes Training Topics
 
+* Ingress / Loadbalancers / API Gateways / Service Mesh
 * RBAC
 * Logging
 * Monitoring
