@@ -6,8 +6,8 @@ If you'd like to help by crafting the advanced training slides, please [join us 
 
 ## Advanced Kubernetes Training Topics
 
-* Ingress / Loadbalancers / API Gateways / Service Mesh
-* RBAC
+* Ingress / Loadbalancers / API Gateways / Service Mesh / Networking
+* Authentication / Authorization / RBAC
 * Logging
 * Monitoring
 * Tracing
@@ -15,6 +15,7 @@ If you'd like to help by crafting the advanced training slides, please [join us 
 * Advanced scheduling
 * CI/CD with Jenkins--X, Spinnaker or GitLab's CI/CD
 * Cluster Federation
+* Troubleshooting
 
 
 
