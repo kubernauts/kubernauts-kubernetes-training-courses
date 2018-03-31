@@ -17,6 +17,8 @@ If you'd like to help by crafting the advanced training slides, please [join us 
 * Distributed Storage \(Rook, OpenEBS, Longhorn, etc.\)
 * Cluster Federation
 * Troubleshooting
+* Best Practices
+* Security & hardening
 
 
 
