@@ -14,6 +14,7 @@ If you'd like to help by crafting the advanced training slides, please [join us 
 * Backup and Desaster Recovery
 * Advanced scheduling
 * CI/CD with Jenkins--X, Spinnaker or GitLab's CI/CD
+* Distributed Storage \(Rook, OpenEBS, Longhorn, etc.\)
 * Cluster Federation
 * Troubleshooting
 
