@@ -6,3 +6,7 @@ The [Kubernauts](https://kubernauts.io/) offer free training for [Kubernetes](ht
 
 The Git repository where this book lives is [here](https://github.com/kubernauts/kubernauts-training-design).  Github issues can be raised to discuss and help refine the various aspects of the training.
 
+Our Kubernetes Learning Resources are available [here](https://goo.gl/Rywkpd).
+
+.
+
